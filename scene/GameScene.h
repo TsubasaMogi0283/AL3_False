@@ -15,6 +15,9 @@
 class GameScene {
 
 public: // メンバ関数
+	//テクスチャハンドル
+	uint32_t textureHandle_ = 0;
+
 	/// <summary>
 	/// コンストクラタ
 	/// </summary>
